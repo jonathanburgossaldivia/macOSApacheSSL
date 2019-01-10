@@ -8,7 +8,7 @@ clear
 echo "
 
 * Run this script as root.
-* The folder of this script must be on the desktop with the original name.
+* The folder of this script (apacheSSL-SSL) must be on the desktop with the original name.
 
 "
 
