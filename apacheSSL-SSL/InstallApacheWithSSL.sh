@@ -18,6 +18,7 @@ sudo echo || exit 0
 if [ -d ~/Desktop/${scriptName}-Backup ]; then
 	clear
   	echo -e "You have already executed this script ... \n"
+	exit 0
 fi
 
 
